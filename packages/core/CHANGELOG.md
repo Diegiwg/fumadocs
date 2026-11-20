@@ -1,3 +1,9 @@
+## fumadocs-core@16.19.6
+
+### Directive admonitions in processed Markdown
+
+- `remarkDirectiveAdmonition` keeps the authored directive in processed Markdown of the `function` output.
+
 ## fumadocs-core@16.19.5
 
 ### Clearer error for unknown code languages
